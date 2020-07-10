@@ -1,4 +1,7 @@
 # Biocomputing-II
+
+This is part of the code created on my part along with my group members on a project/coursework with the aim of creating an online database that can be accessible to the general public. I was tasked with the working on the front end and making sure the business tier and front end were indeed communicating.
+
 This directory contains the code for the CGI scripts.
 
 It imports the blapi.py module from the ../bl directory.
